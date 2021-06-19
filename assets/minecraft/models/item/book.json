@@ -1,0 +1,15 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/book"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":3160100}, "model": "tsp:glimmer/item/tome/fire_tome"},
+		{"predicate": {"custom_model_data":3160101}, "model": "tsp:glimmer/item/tome/ice_tome"},
+		{"predicate": {"custom_model_data":3160102}, "model": "tsp:glimmer/item/tome/lightning_tome"},
+		{"predicate": {"custom_model_data":3160103}, "model": "tsp:glimmer/item/tome/curse_tome"},
+		{"predicate": {"custom_model_data":3160104}, "model": "tsp:glimmer/item/tome/utility_tome"},
+		{"predicate": {"custom_model_data":3160105}, "model": "tsp:glimmer/item/tome/ender_tome"},
+		{"predicate": {"custom_model_data":3160106}, "model": "tsp:glimmer/item/tome/wither_tome"}
+	]
+}

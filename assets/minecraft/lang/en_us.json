@@ -1,0 +1,23 @@
+{
+	"tsp.glimmer.title":"Glimmer",
+	"tsp.glimmer.subtitle":"Vanilla-Style Magic",
+	"tsp.glimmer.item.durability": "Durability",
+	"tsp.glimmer.item.witch_hat": "Witch's Hat",
+	"tsp.glimmer.item.witch_hat.desc.1": "Fortify Magic I",
+	"tsp.glimmer.item.wizard_hat": "Wizard's Hat",
+	"tsp.glimmer.item.wizard_hat.desc.1": "Fortify Magic II",
+    "tsp.glimmer.item.wooden_staff": "Wooden Staff",
+    "tsp.glimmer.item.crystal_staff": "Crystal Staff",
+    "tsp.glimmer.item.master_staff": "Master Staff",
+    "tsp.glimmer.item.spell_tome":"Spell Tome",
+    "tsp.glimmer.item.spells.ignite": "Ignite",
+    "tsp.glimmer.item.spells.fireball": "Fireball",
+    "tsp.glimmer.item.spells.freeze": "Freeze",
+    "tsp.glimmer.item.spells.channel": "Channel",
+    "tsp.glimmer.item.spells.fangs": "Fangs",
+    "tsp.glimmer.item.spells.woolswap": "Wool Swap",
+    "tsp.glimmer.item.spells.blink": "Blink",
+    "tsp.glimmer.spell.mark.set": "Mark set",
+    "tsp.glimmer.item.spells.mark_recall": "Mark/Recall",
+    "tsp.glimmer.item.spells.withering_touch": "Withering Touch"
+}

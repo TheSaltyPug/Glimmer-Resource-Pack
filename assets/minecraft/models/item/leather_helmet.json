@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/leather_helmet"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":3160100}, "model": "tsp:glimmer/item/hats/witch_hat"},
+		{"predicate": {"custom_model_data":3160101}, "model": "tsp:glimmer/item/hats/wizard_hat"}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"daydream.alteration.cast": {
+		"sounds": [
+			"tsp:daydream/spells.alteration.cast"
+		]
+	},
+	"daydream.alteration.dissipate": {
+		"sounds": [
+			"tsp:daydream/spells.alteration.dissipate"
+		]
+	},
+	"daydream.restoration.cast": {
+		"sounds": [
+			"tsp:daydream/spells.restoration.cast"
+		]
+	},
+	"daydream.transmutation.cast": {
+		"sounds": [
+			"tsp:daydream/spells.transmutation.cast"
+		]
+	},
+	"daydream.illusion.cast": {
+		"sounds": [
+			"tsp:daydream/spells.illusion.cast"
+		]
+	},
+	"daydream.1.1": {
+		"sounds": [
+			"tsp:daydream/spells.1.1"
+		]
+	},
+	"daydream.1.2": {
+		"sounds": [
+			"tsp:daydream/spells.1.2"
+		]
+	},
+	"daydream.1.3": {
+		"sounds": [
+			"tsp:daydream/spells.1.3"
+		]
+	},
+	"daydream.1.4": {
+		"sounds": [
+			"tsp:daydream/spells.1.4"
+		]
+	},
+	"daydream.3.1.1": {
+		"sounds": [
+			"tsp:daydream/spells.3.1.1"
+		]
+	},
+	"daydream.3.1.2": {
+		"sounds": [
+			"tsp:daydream/spells.3.1.2"
+		]
+	},
+	"daydream.3.2.1": {
+		"sounds": [
+			"tsp:daydream/spells.3.2.1"
+		]
+	},
+	"daydream.3.2.2": {
+		"sounds": [
+			"tsp:daydream/spells.3.2.2"
+		]
+	},
+	"daydream.5.1": {
+		"sounds": [
+			"tsp:daydream/spells.5.1"
+		]
+	},
+	"daydream.6.1": {
+		"sounds": [
+			"tsp:daydream/spells.6.1"
+		]
+	}
+}
